@@ -35,7 +35,8 @@
 
 ## SNES - Super Nintendo Entertainment System 
 
-- Snes9x (Android/PC)
+- Snes9x (Android/Windows)
+- MultiSneS16 (Android)
 - Retroarch com Snes9x (Android/Windows)
 - Retroarch com bsnes (Android/Windows)
 
